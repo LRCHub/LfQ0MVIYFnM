@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "松任谷由実 - やさしさに包まれたなら (THE LAST WEDNESDAY TOUR 2006〜HERE COMES THE WAVE〜)",
+  "base_artist": "松任谷由実",
+  "createdAt": "2025-12-25T03:08:20.771283Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "やさしさに包まれたなら",
+      "artist": "松任谷 由実",
+      "has_synced": false,
+      "path": "select/pl_01_やさしさに包まれたなら_松任谷_由実.txt"
+    }
+  ]
+}
